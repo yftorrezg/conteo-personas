@@ -1,0 +1,13 @@
+# 🔒 Credenciales (plantilla)
+
+Copia este archivo como `docs/CREDENCIALES.local.md` y llénalo.
+Ese nombre está en `.gitignore`, así que **Git NO lo sube a GitHub**.
+Nunca escribas contraseñas en el README ni en otros documentos.
+
+| Qué | Valor |
+|---|---|
+| Usuario SSH de la Pi | `pi` |
+| Contraseña SSH de la Pi | (escríbela aquí) |
+| Nombre del hotspot del celular | `Yafer` (2.4 GHz) |
+| Contraseña del hotspot | (escríbela aquí) |
+| WiFi de casa | `WIFI-CASA-5G` / `WIFI-CASA-2.4G` — contraseña: (aquí) |

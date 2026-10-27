@@ -1,0 +1,7 @@
+ultralytics
+opencv-python-headless
+flask
+numpy
+# Solo en la Raspberry Pi (cámara CSI): sudo apt install python3-picamera2
+# y crear el venv con --system-site-packages
+# Export a NCNN (más rápido en ARM): pip install ncnn

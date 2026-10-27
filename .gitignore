@@ -1,0 +1,24 @@
+# Secretos: NUNCA subir contraseñas
+pi/wifi.env
+docs/CREDENCIALES.local.md
+*.local.md
+
+# Generado al ejecutar
+logs/
+__pycache__/
+*.pyc
+src/calibration.json
+src/dist_calib.json
+src/src_backup_*/
+
+# Entornos y archivos pesados
+venv/
+.venv/
+os-image/
+*.img.xz
+*.img
+
+# Editor / sistema
+.vscode/
+.idea/
+.DS_Store
